@@ -1,17 +1,14 @@
 PRINTF GROUP PROJECT
 
 _printf
+
 	A re-creation of the printf function in C!
 
 NAME
        _Printf
-SYNOPSIS
-<hr>
-	#include <stdio.h>
-	#include <stdarg.h>
-	int _printf(const char *format, ...);
+
 DESCRIPTION
-<hr>
+
 The function printf()produce output according to a format. The function printf()write output to the standard output stream;
 this function write the output under the control of a format string that specifies how subsequent arguments (or arguments accessed via the variable-length argument facilities of stdarg(3)) are converted for output.
 
